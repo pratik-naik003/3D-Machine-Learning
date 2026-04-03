@@ -276,13 +276,3 @@ You learned:
 * ML pipeline
 
 ---
-
-## 🚀 Next Steps
-
-* Use real datasets (ModelNet40)
-* Train model properly
-* Improve accuracy
-
----
-
-🔥 You are now ready for real 3D ML projects!
