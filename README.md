@@ -1,4 +1,4 @@
-# 🚀 Open3D & 3D Machine Learning – Complete Notes
+#  Open3D & 3D Machine Learning 
 
 ## 1. 3D Basics
 
